@@ -1,0 +1,66 @@
+{
+  "version": "V29",
+  "single_pages": 24,
+  "imposed_sides": 12,
+  "sheets": 6,
+  "trim_mm": [
+    148,
+    210
+  ],
+  "bleed_mm": 3,
+  "bleed_method": "edge extension; trim artwork unchanged",
+  "qr_count": 61,
+  "qr_checks": 122,
+  "qr_errors": [],
+  "fonts_embedded": true,
+  "a3_order": [
+    [
+      24,
+      1
+    ],
+    [
+      2,
+      23
+    ],
+    [
+      22,
+      3
+    ],
+    [
+      4,
+      21
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      6,
+      19
+    ],
+    [
+      18,
+      7
+    ],
+    [
+      8,
+      17
+    ],
+    [
+      16,
+      9
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      14,
+      11
+    ],
+    [
+      12,
+      13
+    ]
+  ]
+}
